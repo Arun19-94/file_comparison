@@ -1,0 +1,5 @@
+num|name|age
+100|gopi|12
+101|kutu|14
+102|ammu|17
+103|ikku|2
